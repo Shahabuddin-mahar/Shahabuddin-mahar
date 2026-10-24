@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shahabuddin Mahar
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shahabuddin-mahar&color=6366f1&style=for-the-badge&label=VISITORS+COUNT)
+
 ### 💻 Full-Stack Software Engineer | Micro-SaaS Builder | Automation Specialist
 
 I build fast, high-converting digital products, developer tools, and automation software designed to scale businesses and generate leads.
