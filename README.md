@@ -1,18 +1,22 @@
 # 👋 Hi, I'm Shahabuddin Mahar
 
-### 💻 Full-Stack Developer | Micro-SaaS Builder | Web Scraping & Automation Specialist
+### 💻 Full-Stack Software Engineer | Micro-SaaS Builder | Automation Specialist
 
 I build fast, high-converting digital products, developer tools, and automation software designed to scale businesses and generate leads.
 
 ---
 
-## 🚀 Featured Products & Commercial Open-Source
+## 🚀 Live Products & Commercial Open-Source (7 Featured Projects)
 
-| Project | Description | Live Demo / Repo | Pricing / Model |
-| :--- | :--- | :---: | :---: |
-| 📍 **Google Maps Leads Scraper** | Extract unlimited B2B leads, phone numbers & websites without expensive API keys. | [GitHub Repo](https://github.com/Shahabuddin-mahar/google-maps-leads-scraper) | **Free** / PRO \$19 |
-| 🍔 **QuickMenu WhatsApp Ordering** | Fast QR Code digital menu for restaurants & cafes with direct WhatsApp cart orders. | [Live Demo](https://shahabuddin-mahar.github.io/whatsapp-restaurant-qr-menu/) • [Repo](https://github.com/Shahabuddin-mahar/whatsapp-restaurant-qr-menu) | \$50 / Client Setup |
-| 🚀 **LaunchPad SaaS Boilerplate** | High-converting dark mode Micro-SaaS landing page with zero build steps. | [Live Demo](https://shahabuddin-mahar.github.io/saas-landing-launchpad/) • [Repo](https://github.com/Shahabuddin-mahar/saas-landing-launchpad) | \$19 Starter / \$49 Pro |
+| # | Project | Domain | Live Demo / Repo | Pricing / Model |
+| :-: | :--- | :--- | :---: | :---: |
+| 1 | 📍 **Google Maps Leads Scraper** | B2B Lead Gen | [GitHub Repo](https://github.com/Shahabuddin-mahar/google-maps-leads-scraper) | **Free** / PRO \$19 |
+| 2 | 🍔 **QuickMenu WhatsApp Ordering** | Restaurant QR Menu | [Live Demo](https://shahabuddin-mahar.github.io/whatsapp-restaurant-qr-menu/) • [Repo](https://github.com/Shahabuddin-mahar/whatsapp-restaurant-qr-menu) | \$50 / Client Setup |
+| 3 | 🚀 **LaunchPad SaaS Boilerplate** | Micro-SaaS Landing | [Live Demo](https://shahabuddin-mahar.github.io/saas-landing-launchpad/) • [Repo](https://github.com/Shahabuddin-mahar/saas-landing-launchpad) | \$19 Starter / \$49 Pro |
+| 4 | 🧩 **Chrome Extension V3 Starter** | Browser Extension | [GitHub Repo](https://github.com/Shahabuddin-mahar/chrome-extension-v3-starter) | Free Open Source |
+| 5 | ✍️ **CoverCraft AI Cover Letter** | Career Micro-Tool | [Live Demo](https://shahabuddin-mahar.github.io/ai-resume-cover-letter-generator/) • [Repo](https://github.com/Shahabuddin-mahar/ai-resume-cover-letter-generator) | Free / \$9/mo SaaS |
+| 6 | ⚡ **env-validator CLI** | DevOps & Tooling | [GitHub Repo](https://github.com/Shahabuddin-mahar/cli-env-validator) | Free / GitHub Sponsors |
+| 7 | 📺 **TubeBrief YouTube Summarizer** | AI Video Summary | [Live Demo](https://shahabuddin-mahar.github.io/youtube-transcript-summarizer/) • [Repo](https://github.com/Shahabuddin-mahar/youtube-transcript-summarizer) | Free / \$5/mo Pro |
 
 ---
 
@@ -20,7 +24,7 @@ I build fast, high-converting digital products, developer tools, and automation 
 
 - **Languages:** Python, JavaScript, HTML5, CSS3, SQL
 - **Frameworks & Libraries:** Tailwind CSS, Node.js, Express, BeautifulSoup4, Requests, Playwright
-- **Specializations:** Lead Generation Scrapers, WhatsApp Cloud & Web APIs, Micro-SaaS Landing Pages, B2B Automation
+- **Specializations:** Lead Generation Scrapers, Chrome Extensions (Manifest V3), WhatsApp Order Gateways, Micro-SaaS Landing Pages, DevOps Tooling
 
 ---
 
