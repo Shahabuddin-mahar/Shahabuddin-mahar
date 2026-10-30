@@ -8,9 +8,9 @@ I build fast, high-converting digital products, developer tools, and automation 
 
 ---
 
-## 🚀 Commercial Open-Source & Portfolio (20 Live Projects)
+## 🚀 Commercial Open-Source & Portfolio (Top 30 Projects)
 
-| # | Project | Domain | Live Demo / Repo | Pricing Model |
+| # | Project | Domain | Status / Live Demo | Pricing Model |
 | :-: | :--- | :--- | :---: | :---: |
 | 1 | 📍 **Google Maps Leads Scraper** | B2B Lead Gen | [GitHub Repo](https://github.com/Shahabuddin-mahar/google-maps-leads-scraper) | **Free** / PRO \$19 |
 | 2 | 🍔 **QuickMenu WhatsApp Ordering** | Restaurant QR Menu | [Live Demo](https://shahabuddin-mahar.github.io/whatsapp-restaurant-qr-menu/) • [Repo](https://github.com/Shahabuddin-mahar/whatsapp-restaurant-qr-menu) | \$50 / Client Setup |
@@ -32,6 +32,16 @@ I build fast, high-converting digital products, developer tools, and automation 
 | 18 | 🚀 **API Mock Server Lite** | Developer Tooling | [GitHub Repo](https://github.com/Shahabuddin-mahar/api-mock-server-lite) | Free Tool |
 | 19 | 🔍 **Meta SEO Tag & SERP Generator** | Marketing & SEO | [Live Demo](https://shahabuddin-mahar.github.io/meta-seo-tag-bulk-generator/) • [Repo](https://github.com/Shahabuddin-mahar/meta-seo-tag-bulk-generator) | \$15 Tool |
 | 20 | 💻 **Terminal Interactive Resume CLI** | Developer Portfolio | [GitHub Repo](https://github.com/Shahabuddin-mahar/terminal-interactive-resume-cli) | Free / Open Source |
+| 21 | ✍️ **Social Media Text Formatter** | Social Media Growth | [Live Demo](https://shahabuddin-mahar.github.io/social-media-text-formatter/) • [Repo](https://github.com/Shahabuddin-mahar/social-media-text-formatter) | Free / \$15 Tool |
+| 22 | 🔗 **Broken Link & Status Checker CLI** | SEO & Web Tooling | [GitHub Repo](https://github.com/Shahabuddin-mahar/broken-link-checker-cli) | Free Tool |
+| 23 | 💱 **Smart Currency Converter Widget** | E-Commerce Fintech | [Live Demo](https://shahabuddin-mahar.github.io/smart-currency-converter/) • [Repo](https://github.com/Shahabuddin-mahar/smart-currency-converter) | \$19 Widget |
+| 24 | 🛍️ **Shopify Competitor Product Scraper** | E-Commerce Scraping | [GitHub Repo](https://github.com/Shahabuddin-mahar/shopify-store-product-scraper) | \$35 Tool |
+| 25 | 📖 **PureRead: Distraction-Free Reader** | Productivity / Audio | [Live Demo](https://shahabuddin-mahar.github.io/distraction-free-article-reader/) • [Repo](https://github.com/Shahabuddin-mahar/distraction-free-article-reader) | \$10 Tool |
+| 26 | 🔐 **KeyGuard Password Generator** | Cybersecurity | [Live Demo](https://shahabuddin-mahar.github.io/password-generator-strength-audit/) • [Repo](https://github.com/Shahabuddin-mahar/password-generator-strength-audit) | Free Tool |
+| 27 | 🏷️ **YouTube Tag & SEO Extractor** | Creator SEO | [GitHub Repo](https://github.com/Shahabuddin-mahar/youtube-tag-competitor-extractor) | \$20 Tool |
+| 28 | 📱 **QuickQR Multi-Purpose Generator** | QR Marketing Tool | [Live Demo](https://shahabuddin-mahar.github.io/qr-code-wifi-vcard-generator/) • [Repo](https://github.com/Shahabuddin-mahar/qr-code-wifi-vcard-generator) | \$25 Setup |
+| 29 | 🔄 **DataMorph: JSON ⇄ CSV Converter** | Developer Tooling | Local Git Ready (Publishing) | Free Tool |
+| 30 | 📝 **MarkDraft: Live Markdown Editor** | Writing / Productivity | Local Git Ready (Publishing) | \$15 Tool |
 
 ---
 
