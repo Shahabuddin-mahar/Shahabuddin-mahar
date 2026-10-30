@@ -8,9 +8,9 @@ I build fast, high-converting digital products, developer tools, and automation 
 
 ---
 
-## 🚀 Commercial Open-Source & Portfolio (Top 20 Featured Projects)
+## 🚀 Commercial Open-Source & Portfolio (20 Live Projects)
 
-| # | Project | Domain | Status / Demo | Pricing Model |
+| # | Project | Domain | Live Demo / Repo | Pricing Model |
 | :-: | :--- | :--- | :---: | :---: |
 | 1 | 📍 **Google Maps Leads Scraper** | B2B Lead Gen | [GitHub Repo](https://github.com/Shahabuddin-mahar/google-maps-leads-scraper) | **Free** / PRO \$19 |
 | 2 | 🍔 **QuickMenu WhatsApp Ordering** | Restaurant QR Menu | [Live Demo](https://shahabuddin-mahar.github.io/whatsapp-restaurant-qr-menu/) • [Repo](https://github.com/Shahabuddin-mahar/whatsapp-restaurant-qr-menu) | \$50 / Client Setup |
@@ -21,17 +21,17 @@ I build fast, high-converting digital products, developer tools, and automation 
 | 7 | 📺 **TubeBrief YouTube Summarizer** | AI Video Summary | [Live Demo](https://shahabuddin-mahar.github.io/youtube-transcript-summarizer/) • [Repo](https://github.com/Shahabuddin-mahar/youtube-transcript-summarizer) | Free / \$5/mo Pro |
 | 8 | 📸 **Instagram Influencer Extractor** | Influencer Marketing | [GitHub Repo](https://github.com/Shahabuddin-mahar/instagram-influencer-extractor) | Free / \$29 Tool |
 | 9 | 🧾 **PDF Invoice Data Extractor** | Accounting Automation | [GitHub Repo](https://github.com/Shahabuddin-mahar/pdf-invoice-data-extractor) | Free / \$35 Tool |
-| 10 | 📝 **Notion Static Blog Starter** | Headless CMS Blog | Ready to Deploy | \$29 Template |
-| 11 | 🛡️ **COD Shield: Anti-Fraud** | E-Commerce Protection | Ready to Deploy | \$49/mo SaaS |
-| 12 | 📈 **Crypto Price Alert Bot** | Trading Automation | Ready to Deploy | \$30 Setup Fee |
-| 13 | 💻 **Markdown Developer Portfolio** | Personal Website | Ready to Deploy | \$15 Digital Asset |
-| 14 | ⚖️ **LegalBrief AI Contract Analyzer** | LegalTech Micro-Tool | Ready to Deploy | \$19/mo Tool |
-| 15 | 💼 **BidWin: Upwork Proposal Generator** | Freelance Tooling | Ready to Deploy | \$5/mo Tool |
-| 16 | 🎟️ **Event QR Ticket Generator** | Event Ticketing | Ready to Deploy | \$50 Setup Fee |
-| 17 | 🩺 **Apex Clinic Appointment Booking** | Healthcare System | Ready to Deploy | \$100 Setup Fee |
-| 18 | 🚀 **API Mock Server Lite** | Developer Tooling | Ready to Deploy | Free Tool |
-| 19 | 🔍 **Meta SEO Tag & SERP Generator** | Marketing & SEO | Ready to Deploy | \$15 Tool |
-| 20 | 💻 **Terminal Interactive Resume CLI** | Developer Portfolio | Ready to Deploy | Free / Open Source |
+| 10 | 📝 **Notion Static Blog Starter** | Headless CMS Blog | [Live Demo](https://shahabuddin-mahar.github.io/notion-static-blog-starter/) • [Repo](https://github.com/Shahabuddin-mahar/notion-static-blog-starter) | \$29 Template |
+| 11 | 🛡️ **COD Shield: Anti-Fraud** | E-Commerce Protection | [Live Demo](https://shahabuddin-mahar.github.io/ecommerce-cod-anti-fraud/) • [Repo](https://github.com/Shahabuddin-mahar/ecommerce-cod-anti-fraud) | \$49/mo SaaS |
+| 12 | 📈 **Crypto Price Alert Bot** | Trading Automation | [GitHub Repo](https://github.com/Shahabuddin-mahar/crypto-stock-telegram-alert-bot) | \$30 Setup Fee |
+| 13 | 💻 **Markdown Developer Portfolio** | Personal Website | [Live Demo](https://shahabuddin-mahar.github.io/minimal-markdown-developer-portfolio/) • [Repo](https://github.com/Shahabuddin-mahar/minimal-markdown-developer-portfolio) | \$15 Digital Asset |
+| 14 | ⚖️ **LegalBrief AI Contract Analyzer** | LegalTech Micro-Tool | [Live Demo](https://shahabuddin-mahar.github.io/ai-contract-legal-summarizer/) • [Repo](https://github.com/Shahabuddin-mahar/ai-contract-legal-summarizer) | \$19/mo Tool |
+| 15 | 💼 **BidWin: Upwork Proposal Generator** | Freelance Tooling | [Live Demo](https://shahabuddin-mahar.github.io/upwork-proposal-generator/) • [Repo](https://github.com/Shahabuddin-mahar/upwork-proposal-generator) | \$5/mo Tool |
+| 16 | 🎟️ **Event QR Ticket Generator** | Event Ticketing | [Live Demo](https://shahabuddin-mahar.github.io/event-ticket-qr-pass-generator/) • [Repo](https://github.com/Shahabuddin-mahar/event-ticket-qr-pass-generator) | \$50 Setup Fee |
+| 17 | 🩺 **Apex Clinic Appointment Booking** | Healthcare System | [Live Demo](https://shahabuddin-mahar.github.io/clinic-dental-appointment-booking/) • [Repo](https://github.com/Shahabuddin-mahar/clinic-dental-appointment-booking) | \$100 Setup Fee |
+| 18 | 🚀 **API Mock Server Lite** | Developer Tooling | [GitHub Repo](https://github.com/Shahabuddin-mahar/api-mock-server-lite) | Free Tool |
+| 19 | 🔍 **Meta SEO Tag & SERP Generator** | Marketing & SEO | [Live Demo](https://shahabuddin-mahar.github.io/meta-seo-tag-bulk-generator/) • [Repo](https://github.com/Shahabuddin-mahar/meta-seo-tag-bulk-generator) | \$15 Tool |
+| 20 | 💻 **Terminal Interactive Resume CLI** | Developer Portfolio | [GitHub Repo](https://github.com/Shahabuddin-mahar/terminal-interactive-resume-cli) | Free / Open Source |
 
 ---
 
