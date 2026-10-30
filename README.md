@@ -40,8 +40,8 @@ I build fast, high-converting digital products, developer tools, and automation 
 | 26 | 🔐 **KeyGuard Password Generator** | Cybersecurity | [Live Demo](https://shahabuddin-mahar.github.io/password-generator-strength-audit/) • [Repo](https://github.com/Shahabuddin-mahar/password-generator-strength-audit) | Free Tool |
 | 27 | 🏷️ **YouTube Tag & SEO Extractor** | Creator SEO | [GitHub Repo](https://github.com/Shahabuddin-mahar/youtube-tag-competitor-extractor) | \$20 Tool |
 | 28 | 📱 **QuickQR Multi-Purpose Generator** | QR Marketing Tool | [Live Demo](https://shahabuddin-mahar.github.io/qr-code-wifi-vcard-generator/) • [Repo](https://github.com/Shahabuddin-mahar/qr-code-wifi-vcard-generator) | \$25 Setup |
-| 29 | 🔄 **DataMorph: JSON ⇄ CSV Converter** | Developer Tooling | Local Git Ready (Publishing) | Free Tool |
-| 30 | 📝 **MarkDraft: Live Markdown Editor** | Writing / Productivity | Local Git Ready (Publishing) | \$15 Tool |
+| 29 | 🔄 **DataMorph: JSON ⇄ CSV Converter** | Developer Tooling | [Live Demo](https://shahabuddin-mahar.github.io/json-csv-schema-converter/) • [Repo](https://github.com/Shahabuddin-mahar/json-csv-schema-converter) | Free Tool |
+| 30 | 📝 **MarkDraft: Live Markdown Editor** | Writing / Productivity | [Live Demo](https://shahabuddin-mahar.github.io/markdown-cheatsheet-editor/) • [Repo](https://github.com/Shahabuddin-mahar/markdown-cheatsheet-editor) | \ Tool |
 
 ---
 
